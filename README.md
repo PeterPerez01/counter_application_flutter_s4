@@ -15,7 +15,9 @@ By Peter Alejandro Pérez Chel
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
+
 App running on Emulator
+
 ![image](https://github.com/PeterPerez01/counter_application_flutter_s4/assets/56180954/e588457e-111a-4b07-8b74-6215095b2eef)
 
 
